@@ -1,6 +1,6 @@
 import duckdb
 
-DB_PATH = "cows.db"
+DB_PATH = "data/cows.db"
 
 def get_connection():
     return duckdb.connect(DB_PATH)
@@ -18,10 +18,11 @@ def init_db():
 
     conn.execute("""
     CREATE TABLE IF NOT EXISTS measurements (
-        sensor_id UUID PRIMARY KEY,
+        sensor_id UUID,
         cow_id UUID,
         timestamp TIMESTAMP,
-        value DOUBLE
+        value DOUBLE,
+        PRIMARY KEY (sensor_id, cow_id, timestamp)
     )
     """)
 
