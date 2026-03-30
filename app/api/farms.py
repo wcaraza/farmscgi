@@ -14,7 +14,6 @@ def create_cow_endpoint(cow: CowCreate):
 
 @router.post("/sensor-data")
 def sensor_data_endpoint(measurements: MeasurementsCreate):
-    #data.validate_data()
     insert_sensor_data(measurements)
     return {"message": "Sensor data inserted"}
 
