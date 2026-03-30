@@ -52,4 +52,4 @@ pytest -v
 
 ## Stack
 
-FastAPI, DuckDB, Pydantic, pytest, pandas
+FastAPI, DuckDB, Pydantic, pytest, pandas, Jupiter notebook
