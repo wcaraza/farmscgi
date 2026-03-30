@@ -163,6 +163,7 @@ def clean(v):
         return None
     return v
 
+#Sequential ingestion of data from parquet files, not recommended for large datasets
 def insert_sensor_data_parquet():
 
     df = pd.read_parquet('data/measurements.parquet')
@@ -189,6 +190,7 @@ def send_row(row):
     requests.post("http://localhost:8000/sensor-data", json=payload)
 
 
+#Parallel ingestion of data from parquet files using ThreadPoolExecutor, recommended for large datasets
 from concurrent.futures import ThreadPoolExecutor
 def simulate_parallel():
     df = pd.read_parquet('data/measurements.parquet')
