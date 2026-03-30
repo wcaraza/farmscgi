@@ -1,28 +1,6 @@
 Report for 2024-04-07
 
 Milk Production:
-Cow Jacqueline #2: 23.11 L
-Cow Brittany #6: 18.650000000000002 L
-Cow Barbara #5: 9.45 L
-Cow Theresa #6: 23.740000000000002 L
-Cow Jacqueline #4: 23.65 L
-Cow Rhonda #8: 14.209999999999999 L
-Cow Natalie #2: 4.83 L
-Cow Tammie #5: 19.51 L
-Cow Mary #1: 18.75 L
-Cow Sara #7: 18.63 L
-Cow Angela #8: 9.42 L
-Cow Anne #4: 14.09 L
-Cow Ashley #2: 4.54 L
-Cow Linda #3: 4.88 L
-Cow Carla #3: 9.469999999999999 L
-Cow Kelly #2: 14.440000000000001 L
-Cow Cassandra #4: 23.88 L
-Cow Patricia #5: 19.83 L
-Cow Jessica #9: 18.68 L
-Cow Leah #3: 24.04 L
-Cow Alyssa #5: 9.66 L
-Cow Teresa #2: 14.16 L
 Cow Debra #1: 14.45 L
 Cow Angela #5: 23.529999999999998 L
 Cow Katherine #3: 13.860000000000001 L
@@ -32,11 +10,13 @@ Cow Brandi #1: 19.229999999999997 L
 Cow Sarah #1: 14.030000000000001 L
 Cow Cheryl #5: 14.01 L
 Cow Jaime #5: 9.280000000000001 L
-Cow Ashlee #9: 18.869999999999997 L
-Cow Lindsey #9: 19.1 L
-Cow Lynn #9: 19.19 L
-Cow Deborah #1: 14.350000000000001 L
-Cow Christina #3: 19.18 L
+Cow Tammie #5: 19.51 L
+Cow Mary #1: 18.75 L
+Cow Sara #7: 18.63 L
+Cow Angela #8: 9.42 L
+Cow Anne #4: 14.09 L
+Cow Ashley #2: 4.54 L
+Cow Linda #3: 4.88 L
 Cow Krista #1: 24.009999999999998 L
 Cow Jennifer #7: 9.54 L
 Cow Kimberly #2: 23.6 L
@@ -44,13 +24,26 @@ Cow Shannon #8: 19.1 L
 Cow Kelly #4: 19.310000000000002 L
 Cow Joanne #6: 9.82 L
 Cow Pamela #4: 14.11 L
-Cow Valerie #1: 14.330000000000002 L
-Cow Dawn #1: 18.779999999999998 L
-Cow Robin #3: 14.740000000000002 L
-Cow Sherri #4: 14.74 L
-Cow Jennifer #7: 9.5 L
-Cow Kara #9: 14.510000000000002 L
-Cow Tina #1: 9.32 L
+Cow Carla #3: 9.469999999999999 L
+Cow Kelly #2: 14.440000000000001 L
+Cow Cassandra #4: 23.88 L
+Cow Patricia #5: 19.83 L
+Cow Jessica #9: 18.68 L
+Cow Leah #3: 24.04 L
+Cow Alyssa #5: 9.66 L
+Cow Teresa #2: 14.16 L
+Cow Ashlee #9: 18.869999999999997 L
+Cow Lindsey #9: 19.1 L
+Cow Lynn #9: 19.19 L
+Cow Deborah #1: 14.350000000000001 L
+Cow Christina #3: 19.18 L
+Cow Melanie #8: 9.47 L
+Cow Jamie #9: 9.3 L
+Cow Jennifer #4: 9.35 L
+Cow Ashley #3: 14.32 L
+Cow Paige #5: 19.17 L
+Cow Karen #3: 19.01 L
+Cow Maria #3: 19.32 L
 Cow Alexandria #4: 13.93 L
 Cow Nicole #4: 14.2 L
 Cow Becky #1: 14.059999999999999 L
@@ -59,6 +52,62 @@ Cow Mary #8: 4.6 L
 Cow Jennifer #5: 14.57 L
 Cow Cathy #3: 9.48 L
 Cow Sharon #2: 14.379999999999999 L
+Cow Valerie #1: 14.330000000000002 L
+Cow Dawn #1: 18.779999999999998 L
+Cow Robin #3: 14.740000000000002 L
+Cow Sherri #4: 14.74 L
+Cow Jennifer #7: 9.5 L
+Cow Kara #9: 14.510000000000002 L
+Cow Tina #1: 9.32 L
+Cow Jacqueline #2: 23.11 L
+Cow Brittany #6: 18.650000000000002 L
+Cow Barbara #5: 9.45 L
+Cow Theresa #6: 23.740000000000002 L
+Cow Jacqueline #4: 23.65 L
+Cow Rhonda #8: 14.209999999999999 L
+Cow Natalie #2: 4.83 L
+Cow Natasha #7: 9.34 L
+Cow Kirsten #1: 19.1 L
+Cow Karla #7: 24.310000000000002 L
+Cow Crystal #2: 29.450000000000003 L
+Cow Brooke #2: 19.18 L
+Cow Adriana #7: 14.54 L
+Cow Jennifer #1: 14.02 L
+Cow Amanda #5: 18.52 L
+Cow Kristin #6: 19.22 L
+Cow Martha #7: 14.040000000000001 L
+Cow Alexandria #1: 14.540000000000001 L
+Cow Mary #8: 14.34 L
+Cow Stephanie #5: 14.559999999999999 L
+Cow Alexandra #8: 19.03 L
+Cow Lori #7: 9.41 L
+Cow Katherine #6: 9.63 L
+Cow Debra #2: 9.64 L
+Cow Christine #8: 9.41 L
+Cow Debra #6: 13.88 L
+Cow Connie #1: 18.810000000000002 L
+Cow Amber #9: 14.36 L
+Cow Jean #4: 4.71 L
+Cow Diane #8: 9.23 L
+Cow Yvonne #2: 9.370000000000001 L
+Cow Tara #3: 13.91 L
+Cow Claudia #5: 23.629999999999995 L
+Cow Veronica #4: 13.629999999999999 L
+Cow Desiree #5: 19.28 L
+Cow Nichole #2: 24.29 L
+Cow Heather #5: 9.07 L
+Cow Sheila #6: 9.42 L
+Cow Laura #1: 9.219999999999999 L
+Cow Rebecca #5: 18.76 L
+Cow Margaret #5: 19.8 L
+Cow Elizabeth #8: 14.5 L
+Cow Nicole #4: 19.450000000000003 L
+Cow Karen #1: 9.55 L
+Cow Elizabeth #2: 13.880000000000003 L
+Cow Gail #2: 14.030000000000001 L
+Cow Lisa #8: 4.98 L
+Cow Ashley #1: 14.0 L
+Cow Ashlee #2: 9.58 L
 Cow Brandi #8: 14.86 L
 Cow Melody #5: 14.31 L
 Cow Jennifer #9: 9.370000000000001 L
@@ -71,199 +120,150 @@ Cow Kayla #2: 28.47 L
 Cow Wanda #6: 9.41 L
 Cow Sandra #3: 9.26 L
 Cow Lauren #1: 4.6 L
-Cow Melanie #8: 9.47 L
-Cow Jamie #9: 9.3 L
-Cow Jennifer #4: 9.35 L
-Cow Ashley #3: 14.32 L
-Cow Paige #5: 19.17 L
-Cow Karen #3: 19.01 L
-Cow Maria #3: 19.32 L
-Cow Alexandria #1: 14.540000000000001 L
-Cow Mary #8: 14.34 L
-Cow Stephanie #5: 14.559999999999999 L
-Cow Alexandra #8: 19.03 L
-Cow Lori #7: 9.41 L
-Cow Katherine #6: 9.63 L
-Cow Debra #2: 9.64 L
-Cow Christine #8: 9.41 L
-Cow Natasha #7: 9.34 L
-Cow Kirsten #1: 19.1 L
-Cow Karla #7: 24.310000000000002 L
-Cow Crystal #2: 29.450000000000003 L
-Cow Brooke #2: 19.18 L
-Cow Adriana #7: 14.54 L
-Cow Jennifer #1: 14.02 L
-Cow Amanda #5: 18.52 L
-Cow Kristin #6: 19.22 L
-Cow Martha #7: 14.040000000000001 L
-Cow Debra #6: 13.88 L
-Cow Connie #1: 18.810000000000002 L
-Cow Amber #9: 14.36 L
-Cow Jean #4: 4.71 L
-Cow Diane #8: 9.23 L
-Cow Rebecca #5: 18.76 L
-Cow Margaret #5: 19.8 L
-Cow Elizabeth #8: 14.5 L
-Cow Nicole #4: 19.450000000000003 L
-Cow Karen #1: 9.55 L
-Cow Elizabeth #2: 13.880000000000003 L
-Cow Gail #2: 14.030000000000001 L
-Cow Lisa #8: 4.98 L
-Cow Ashley #1: 14.0 L
-Cow Ashlee #2: 9.58 L
-Cow Yvonne #2: 9.370000000000001 L
-Cow Tara #3: 13.91 L
-Cow Claudia #5: 23.629999999999995 L
-Cow Veronica #4: 13.629999999999999 L
-Cow Desiree #5: 19.28 L
-Cow Nichole #2: 24.29 L
-Cow Heather #5: 9.07 L
-Cow Sheila #6: 9.42 L
-Cow Laura #1: 9.219999999999999 L
 
 Weight:
-Cow Stacy #9: Current 452.41, Avg30d 496.27727272727265
-Cow Wanda #6: Current 548.64, Avg30d 513.9536708860761
-Cow Nicole #4: Current 555.12, Avg30d 537.8300000000002
-Cow Joanne #6: Current 452.36, Avg30d 490.2597916666667
-Cow Cheryl #5: Current 543.94, Avg30d 516.223
-Cow Lauren #1: Current 543.01, Avg30d 528.9830379746835
-Cow Donna #4: Current 557.9, Avg30d 543.556329113924
-Cow Angela #8: Current 539.91, Avg30d 519.5443750000001
-Cow Katherine #7: Current 546.08, Avg30d 526.9101234567902
-Cow Lisa #8: Current 552.57, Avg30d 539.0010843373497
-Cow Tina #1: Current 536.13, Avg30d 529.9763541666665
-Cow Cassandra #4: Current 555.63, Avg30d 534.8875949367089
-Cow Natalie #2: Current 534.58, Avg30d 523.1879120879121
-Cow Sherri #4: Current 552.99, Avg30d 546.121625
-Cow Jennifer #1: Current 543.19, Avg30d 536.6106756756758
-Cow Paige #5: Current 543.14, Avg30d 516.2141025641024
-Cow Ashley #1: Current 550.64, Avg30d 544.6828235294115
-Cow Barbara #5: Current 550.62, Avg30d 544.2455555555556
-Cow Laura #1: Current 553.62, Avg30d 527.7791764705884
-Cow Dominique #2: Current 551.04, Avg30d 535.5059740259741
-Cow Ashlee #2: Current 545.65, Avg30d 532.3613333333334
-Cow Theresa #6: Current 551.54, Avg30d 518.7986904761906
-Cow Katherine #3: Current 555.06, Avg30d 504.9294252873561
-Cow Robin #3: Current 554.42, Avg30d 548.4532967032969
-Cow Jennifer #4: Current 517.9407317073172, Avg30d 517.9407317073172
-Cow Nichole #2: Current 555.08, Avg30d 531.0686813186816
-Cow Brittany #7: Current 591.34, Avg30d 539.4523529411767
-Cow Amber #9: Current 544.03, Avg30d 516.70125
-Cow Sheila #6: Current 545.24, Avg30d 519.1380487804877
-Cow Cathy #3: Current 557.25, Avg30d 536.5424691358024
-Cow Kelly #4: Current 552.77, Avg30d 545.887816091954
-Cow Heather #5: Current 543.1, Avg30d 522.6030379746835
-Cow Lindsey #9: Current 548.83, Avg30d 536.7035714285715
-Cow Elizabeth #2: Current 548.16, Avg30d 522.149294117647
-Cow Kimberly #2: Current 553.92, Avg30d 524.4911392405063
-Cow Krista #1: Current 551.34, Avg30d 544.6709638554215
-Cow Melanie #8: Current 548.85, Avg30d 530.1483146067413
-Cow Cheyenne #6: Current 547.39, Avg30d 535.2523333333332
-Cow Anne #1: Current 550.53, Avg30d 528.9622368421054
-Cow Jacqueline #4: Current 548.26, Avg30d 513.074935064935
-Cow Claudia #5: Current 542.41, Avg30d 536.4773749999999
-Cow Adriana #7: Current 553.05, Avg30d 534.1154117647059
-Cow Ashlee #9: Current 524.5613636363637, Avg30d 524.5613636363637
-Cow Anne #4: Current 471.19, Avg30d 503.3493421052632
-Cow Natasha #7: Current 544.75, Avg30d 520.0706741573034
-Cow Lori #7: Current 550.37, Avg30d 527.8159999999999
-Cow Christine #8: Current 552.53, Avg30d 527.3109782608698
-Cow Tara #3: Current 565.99, Avg30d 557.1825000000001
-Cow Deborah #1: Current 551.69, Avg30d 538.0486813186814
-Cow Marilyn #6: Current 549.6, Avg30d 543.9443820224719
-Cow Jennifer #7: Current 549.33, Avg30d 536.0470930232558
-Cow Jennifer #5: Current 547.33, Avg30d 533.6155421686746
-Cow Kayla #2: Current 563.35, Avg30d 508.1733734939759
-Cow Becky #1: Current 558.7, Avg30d 535.366756756757
-Cow Destiny #1: Current 539.91, Avg30d 526.6831764705881
-Cow Teresa #2: Current 560.96, Avg30d 554.7963855421685
-Cow Jennifer #9: Current 543.78, Avg30d 536.1194736842108
-Cow Alexandria #4: Current 548.72, Avg30d 531.5439999999999
+Cow Sarah #1: Current 545.57, Avg30d 540.0135555555556
+Cow Christina #3: Current 556.88, Avg30d 557.2487096774194
+Cow Angela #5: Current 553.68, Avg30d 537.8595774647889
 Cow Brittany #6: Current 548.33, Avg30d 542.2912345679013
 Cow Jean #4: Current 548.9, Avg30d 540.5334722222225
 Cow Jennifer #7: Current 561.44, Avg30d 535.4538823529414
 Cow Margaret #5: Current 540.26, Avg30d 514.4880232558139
+Cow Melanie #8: Current 548.85, Avg30d 530.1483146067413
+Cow Shannon #8: Current 547.1, Avg30d 534.9634090909091
+Cow Deborah #8: Current 548.49, Avg30d 519.5276363636362
+Cow Mary #1: Current 558.99, Avg30d 546.4611250000004
+Cow Brittany #7: Current 591.34, Avg30d 539.4523529411767
+Cow Cathy #3: Current 557.25, Avg30d 536.5424691358024
+Cow Kelly #4: Current 552.77, Avg30d 545.887816091954
+Cow Heather #5: Current 543.1, Avg30d 522.6030379746835
+Cow Alexandria #1: Current 559.89, Avg30d 541.1470212765956
+Cow Adriana #7: Current 553.05, Avg30d 534.1154117647059
+Cow Brandi #8: Current 551.11, Avg30d 516.6064197530866
+Cow Melody #5: Current 553.69, Avg30d 536.1778125000004
+Cow Deborah #1: Current 551.69, Avg30d 538.0486813186814
+Cow Marilyn #6: Current 549.6, Avg30d 543.9443820224719
+Cow Jennifer #7: Current 549.33, Avg30d 536.0470930232558
+Cow Anna #1: Current 553.36, Avg30d 541.1873170731707
+Cow Alexandra #8: Current 558.35, Avg30d 546.2453846153846
 Cow Andrea #6: Current 549.82, Avg30d 530.5544705882354
 Cow Crystal #2: Current 549.82, Avg30d 531.0097701149425
 Cow Jacqueline #2: Current 545.85, Avg30d 546.0175308641974
-Cow Ashley #3: Current 564.95, Avg30d 551.8881818181819
-Cow Karen #1: Current 531.8009574468086, Avg30d 531.8009574468086
-Cow Carla #3: Current 510.83272727272737, Avg30d 510.83272727272737
-Cow Amanda #5: Current 545.49, Avg30d 517.419125
+Cow Ashley #1: Current 550.64, Avg30d 544.6828235294115
+Cow Barbara #5: Current 550.62, Avg30d 544.2455555555556
+Cow Laura #1: Current 553.62, Avg30d 527.7791764705884
 Cow Katherine #6: Current 555.55, Avg30d 556.3712765957448
-Cow Brandi #1: Current 544.12, Avg30d 529.6592857142858
+Cow Diane #8: Current 540.81, Avg30d 509.59546511627906
+Cow Connie #1: Current 556.31, Avg30d 527.5841025641026
+Cow Dominique #2: Current 551.04, Avg30d 535.5059740259741
+Cow Destiny #1: Current 539.91, Avg30d 526.6831764705881
+Cow Ashlee #9: Current 524.5613636363637, Avg30d 524.5613636363637
+Cow Anne #4: Current 471.19, Avg30d 503.3493421052632
+Cow Teresa #2: Current 560.96, Avg30d 554.7963855421685
+Cow Becky #1: Current 558.7, Avg30d 535.366756756757
+Cow Sherri #4: Current 552.99, Avg30d 546.121625
+Cow Jennifer #1: Current 543.19, Avg30d 536.6106756756758
+Cow Desiree #5: Current 553.34, Avg30d 546.0604
+Cow Jennifer #9: Current 543.78, Avg30d 536.1194736842108
+Cow Alexandria #4: Current 548.72, Avg30d 531.5439999999999
+Cow Ashley #3: Current 564.95, Avg30d 551.8881818181819
+Cow Veronica #4: Current 550.04, Avg30d 550.8716853932581
+Cow Debra #1: Current 551.17, Avg30d 544.9790217391304
+Cow Mary #8: Current 542.95, Avg30d 520.1927777777779
+Cow Kirsten #1: Current 545.14, Avg30d 537.2275641025641
+Cow Ashley #2: Current 543.31, Avg30d 532.3916
+Cow Lynn #9: Current 540.68, Avg30d 540.1110810810811
+Cow Kristin #6: Current 555.99, Avg30d 548.7596428571428
+Cow Joanne #6: Current 452.36, Avg30d 490.2597916666667
+Cow Cheryl #5: Current 543.94, Avg30d 516.223
+Cow Lauren #1: Current 543.01, Avg30d 528.9830379746835
+Cow Donna #4: Current 557.9, Avg30d 543.556329113924
+Cow Tara #3: Current 565.99, Avg30d 557.1825000000001
+Cow Paige #5: Current 543.14, Avg30d 516.2141025641024
 Cow Yvonne #2: Current 553.67, Avg30d 518.0328571428573
 Cow Martha #7: Current 558.31, Avg30d 533.7316842105265
-Cow Tammie #5: Current 531.614022988506, Avg30d 531.614022988506
-Cow Ruth #4: Current 537.46, Avg30d 536.9592207792209
-Cow Alyssa #5: Current 545.57, Avg30d 525.4667469879521
-Cow Jamie #9: Current 549.63, Avg30d 534.9587499999999
-Cow Rebecca #5: Current 544.44, Avg30d 519.6075268817204
-Cow Sandra #3: Current 558.83, Avg30d 535.0978947368419
+Cow Angela #8: Current 539.91, Avg30d 519.5443750000001
+Cow Katherine #7: Current 546.08, Avg30d 526.9101234567902
+Cow Lisa #8: Current 552.57, Avg30d 539.0010843373497
+Cow Tina #1: Current 536.13, Avg30d 529.9763541666665
+Cow Jennifer #5: Current 547.33, Avg30d 533.6155421686746
+Cow Kayla #2: Current 563.35, Avg30d 508.1733734939759
 Cow Kara #9: Current 540.8202499999999, Avg30d 540.8202499999999
 Cow Maria #3: Current 547.35, Avg30d 540.508023255814
 Cow Gail #2: Current 539.61, Avg30d 509.18081395348867
+Cow Stacy #9: Current 452.41, Avg30d 496.27727272727265
+Cow Valerie #1: Current 548.72, Avg30d 504.7004000000002
+Cow Stephanie #5: Current 551.4, Avg30d 528.5750632911394
+Cow Claudia #5: Current 542.41, Avg30d 536.4773749999999
+Cow Jamie #9: Current 549.63, Avg30d 534.9587499999999
+Cow Wanda #6: Current 548.64, Avg30d 513.9536708860761
+Cow Nicole #4: Current 555.12, Avg30d 537.8300000000002
 Cow Michelle #2: Current 551.46, Avg30d 512.7136046511629
 Cow Brooke #2: Current 554.4, Avg30d 536.4267741935485
 Cow Elizabeth #8: Current 546.47, Avg30d 534.436582278481
 Cow Karen #3: Current 543.58, Avg30d 542.7290123456793
+Cow Leah #3: Current 552.97, Avg30d 539.9934375000001
+Cow Mary #8: Current 543.19, Avg30d 505.773424657534
+Cow Linda #3: Current 549.74, Avg30d 516.4632142857145
+Cow Patricia #5: Current 542.31, Avg30d 521.4449999999999
+Cow Sharon #2: Current 541.48, Avg30d 525.4221111111109
+Cow Kathryn #1: Current 543.54, Avg30d 484.9486666666668
+Cow Cynthia #3: Current 549.56, Avg30d 542.6345679012344
+Cow Jaime #5: Current 555.18, Avg30d 541.6577108433736
+Cow Tammie #5: Current 531.614022988506, Avg30d 531.614022988506
+Cow Ruth #4: Current 537.46, Avg30d 536.9592207792209
+Cow Alyssa #5: Current 545.57, Avg30d 525.4667469879521
 Cow Sara #7: Current 557.44, Avg30d 550.407590361446
-Cow Connie #1: Current 556.31, Avg30d 527.5841025641026
+Cow Cheyenne #6: Current 547.39, Avg30d 535.2523333333332
+Cow Anne #1: Current 550.53, Avg30d 528.9622368421054
+Cow Jacqueline #4: Current 548.26, Avg30d 513.074935064935
+Cow Debra #2: Current 546.41, Avg30d 518.269125
+Cow Christine #8: Current 552.53, Avg30d 527.3109782608698
+Cow Krista #1: Current 551.34, Avg30d 544.6709638554215
+Cow Dawn #1: Current 548.58, Avg30d 543.5587234042553
+Cow Nicole #4: Current 546.88, Avg30d 532.7795945945946
+Cow Cassandra #4: Current 555.63, Avg30d 534.8875949367089
+Cow Natalie #2: Current 534.58, Avg30d 523.1879120879121
+Cow Brandi #1: Current 544.12, Avg30d 529.6592857142858
+Cow Robin #3: Current 554.42, Avg30d 548.4532967032969
+Cow Jennifer #4: Current 517.9407317073172, Avg30d 517.9407317073172
+Cow Nichole #2: Current 555.08, Avg30d 531.0686813186816
+Cow Amber #9: Current 544.03, Avg30d 516.70125
+Cow Sheila #6: Current 545.24, Avg30d 519.1380487804877
+Cow Lindsey #4: Current 540.34, Avg30d 535.3454545454548
+Cow Rebecca #5: Current 544.44, Avg30d 519.6075268817204
+Cow Sandra #3: Current 558.83, Avg30d 535.0978947368419
+Cow Pamela #4: Current 550.29, Avg30d 506.71727272727287
+Cow Lindsey #9: Current 548.83, Avg30d 536.7035714285715
+Cow Elizabeth #2: Current 548.16, Avg30d 522.149294117647
+Cow Kimberly #2: Current 553.92, Avg30d 524.4911392405063
 Cow Jessica #9: Current 546.86, Avg30d 519.4875641025639
 Cow Kelly #2: Current 554.23, Avg30d 547.5074999999999
 Cow Debra #6: Current 549.5, Avg30d 511.5050574712643
 Cow Karla #7: Current 554.86, Avg30d 518.0604000000002
-Cow Debra #1: Current 551.17, Avg30d 544.9790217391304
-Cow Sarah #1: Current 545.57, Avg30d 540.0135555555556
-Cow Christina #3: Current 556.88, Avg30d 557.2487096774194
-Cow Angela #5: Current 553.68, Avg30d 537.8595774647889
-Cow Anna #1: Current 553.36, Avg30d 541.1873170731707
-Cow Alexandra #8: Current 558.35, Avg30d 546.2453846153846
 Cow Rhonda #8: Current 547.68, Avg30d 527.5721951219514
-Cow Diane #8: Current 540.81, Avg30d 509.59546511627906
-Cow Alexandria #1: Current 559.89, Avg30d 541.1470212765956
-Cow Pamela #4: Current 550.29, Avg30d 506.71727272727287
-Cow Mary #8: Current 542.95, Avg30d 520.1927777777779
-Cow Lynn #9: Current 540.68, Avg30d 540.1110810810811
-Cow Kristin #6: Current 555.99, Avg30d 548.7596428571428
-Cow Dawn #1: Current 548.58, Avg30d 543.5587234042553
-Cow Nicole #4: Current 546.88, Avg30d 532.7795945945946
-Cow Kathryn #1: Current 543.54, Avg30d 484.9486666666668
-Cow Cynthia #3: Current 549.56, Avg30d 542.6345679012344
-Cow Jaime #5: Current 555.18, Avg30d 541.6577108433736
-Cow Patricia #5: Current 542.31, Avg30d 521.4449999999999
-Cow Sharon #2: Current 541.48, Avg30d 525.4221111111109
-Cow Kirsten #1: Current 545.14, Avg30d 537.2275641025641
-Cow Ashley #2: Current 543.31, Avg30d 532.3916
-Cow Desiree #5: Current 553.34, Avg30d 546.0604
-Cow Leah #3: Current 552.97, Avg30d 539.9934375000001
-Cow Mary #8: Current 543.19, Avg30d 505.773424657534
-Cow Linda #3: Current 549.74, Avg30d 516.4632142857145
-Cow Veronica #4: Current 550.04, Avg30d 550.8716853932581
-Cow Shannon #8: Current 547.1, Avg30d 534.9634090909091
-Cow Deborah #8: Current 548.49, Avg30d 519.5276363636362
-Cow Mary #1: Current 558.99, Avg30d 546.4611250000004
-Cow Valerie #1: Current 548.72, Avg30d 504.7004000000002
-Cow Stephanie #5: Current 551.4, Avg30d 528.5750632911394
-Cow Lindsey #4: Current 540.34, Avg30d 535.3454545454548
-Cow Debra #2: Current 546.41, Avg30d 518.269125
-Cow Brandi #8: Current 551.11, Avg30d 516.6064197530866
-Cow Melody #5: Current 553.69, Avg30d 536.1778125000004
+Cow Natasha #7: Current 544.75, Avg30d 520.0706741573034
+Cow Lori #7: Current 550.37, Avg30d 527.8159999999999
+Cow Karen #1: Current 531.8009574468086, Avg30d 531.8009574468086
+Cow Carla #3: Current 510.83272727272737, Avg30d 510.83272727272737
+Cow Amanda #5: Current 545.49, Avg30d 517.419125
+Cow Ashlee #2: Current 545.65, Avg30d 532.3613333333334
+Cow Theresa #6: Current 551.54, Avg30d 518.7986904761906
+Cow Katherine #3: Current 555.06, Avg30d 504.9294252873561
 
 Cows under threshold:
-Cow 9c6cd124-db49-45cf-8973-b47419c74518: Avg Milk 4.688252957233851
-Cow 0c36be13-c29f-4ee0-b386-e936c6ba5339: Avg Milk 4.694788199697428
-Cow 17d70345-5a06-4f01-aff5-3f7f95d7bc57: Avg Milk 4.691573604060915
+Cow 90814108-2b03-4744-811b-9596c0bb4853: Avg Milk 4.654462025316455
+Cow 924c7e6b-08f2-4871-954e-ae1f714cbcd4: Avg Milk 4.699179019384268
+Cow 7203c734-bdb2-421e-a97a-d62c9ada2d10: Avg Milk 4.699326075686882
+Cow 04f886f9-56df-452e-afba-ce3eb8a010c4: Avg Milk 4.696990223463686
 Cow 3593205a-bead-40d6-aad9-7ed1f2da4745: Avg Milk 4.691654478976232
 Cow 991670bb-d888-4a95-94b8-41b290122833: Avg Milk 4.690248667850798
 Cow c59bf2d4-433a-4de8-9927-b05cb6633cad: Avg Milk 4.5579518072289185
 Cow 586c87f6-4a4e-4996-b560-fc5490a4ad4d: Avg Milk 4.678507089241034
-Cow 33eb52d5-db1e-4a68-a911-f78574f12254: Avg Milk 4.667076023391815
-Cow 90814108-2b03-4744-811b-9596c0bb4853: Avg Milk 4.654462025316455
-Cow 7389aa61-3add-4f92-b38a-6b23cf389dcf: Avg Milk 4.699638242894055
-Cow f7e0cdbc-b23e-483a-8d78-b266a932a3c1: Avg Milk 4.685496921723833
 Cow 98ca68bf-816c-4b90-b7e2-678e9069fdf8: Avg Milk 4.679116022099444
-Cow 924c7e6b-08f2-4871-954e-ae1f714cbcd4: Avg Milk 4.699179019384268
-Cow 7203c734-bdb2-421e-a97a-d62c9ada2d10: Avg Milk 4.699326075686882
-Cow 04f886f9-56df-452e-afba-ce3eb8a010c4: Avg Milk 4.696990223463686
+Cow 9c6cd124-db49-45cf-8973-b47419c74518: Avg Milk 4.688252957233851
+Cow 7389aa61-3add-4f92-b38a-6b23cf389dcf: Avg Milk 4.699638242894056
+Cow f7e0cdbc-b23e-483a-8d78-b266a932a3c1: Avg Milk 4.685496921723833
+Cow 0c36be13-c29f-4ee0-b386-e936c6ba5339: Avg Milk 4.694788199697429
+Cow 17d70345-5a06-4f01-aff5-3f7f95d7bc57: Avg Milk 4.691573604060915
+Cow 33eb52d5-db1e-4a68-a911-f78574f12254: Avg Milk 4.667076023391815
