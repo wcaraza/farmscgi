@@ -24,11 +24,11 @@ tests/ -> tests
 
 ## Endpoints
 
-POST /cows
-GET /cows/{id}
-GET /ingestion
-GET /report/2024-04-07
-GET /simulate-ingestion
+- POST /cows
+- GET /cows/{id}
+- GET /ingestion
+- GET /report/{date}
+- GET /simulate-ingestion
 
 ## Simulation
 
