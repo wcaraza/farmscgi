@@ -1,8 +1,8 @@
-# 🐄 FarmSCGI
+# FarmSCGI
 
 Este proyecto implementa una API para automatizar la gestión de datos de una granja de vacas. Permite registrar vacas, recibir datos de sensores (peso y producción de leche) y generar reportes diarios.
 
-## 📌 Features:
+## Features:
 
 - API REST Python + FastAPI
 - Data persistence with DuckDB
