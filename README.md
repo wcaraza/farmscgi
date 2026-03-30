@@ -40,7 +40,7 @@ Using ThreadPoolExecutor to parallelize data sending.
 - Current weight + 30-day average
 - Detection of potentially sick cows
 
-## 🧪 Tests
+## Tests
 
 pytest -v
 
