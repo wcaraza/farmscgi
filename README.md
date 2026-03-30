@@ -1,4 +1,4 @@
-# FarmSCGI
+# Farms
 
 This project implements an API to automate data management for a dairy farm. 
 
