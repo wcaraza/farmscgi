@@ -1,6 +1,6 @@
 # FarmSCGI
 
-Este proyecto implementa una API para automatizar la gestión de datos de una granja de vacas. Permite registrar vacas, recibir datos de sensores (peso y producción de leche) y generar reportes diarios.
+This project implements an API to automate data management for a dairy farm. 
 
 ## Features:
 
